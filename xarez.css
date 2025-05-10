@@ -1,0 +1,22 @@
+.branco {
+    background-color: white;
+    color: white;
+}
+.preto {
+    background-color: black;
+    color: black;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td{
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 36px;
+}
+
+
