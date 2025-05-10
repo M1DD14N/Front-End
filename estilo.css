@@ -1,0 +1,135 @@
+body {
+    margin: 20px;
+    border: 3px solid darkred;
+    padding: 15px;
+    box-shadow: 10px 10px 5px darkred;
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: brown;
+    font-family: fantasy;
+    text-transform: uppercase;
+}
+
+img {
+    width: 100%;
+}
+
+details {
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 20px;
+    width: 40%;
+    border-radius: 30px;
+    box-shadow: 10px 10px 5px firebrick;
+}
+
+details summary {
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+details audio {
+    margin-top: 10px;
+    width: 100%;
+}
+
+h2 {
+    margin-top: 50px;
+    font-size: 30px;
+    color: brown;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px 
+}
+
+h3 {
+    margin-top: 10px;
+    font-size: 24px;
+    color: brown;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify;
+    line-height: 1.5;
+    font-family:'Times New Roman', Times, serif;
+}
+
+ol,
+ul {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.5;
+    list-style-type: square;
+}
+
+li:hover {
+    background-color: brown;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: brown;
+}
+
+a:hover {
+    font-size: 24px;
+    font-weight: bold;
+    color: brown;
+}
+
+a:active {
+    color: brown;
+}
+
+table {
+    width: 50%;
+    height: 100%;
+    margin: 0 auto;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 3px solid crimson;
+}
+
+th {
+    background-color: brown;
+    border-bottom: 3px solid crimson;
+}
+
+td {
+    text-align: center;
+    padding: 10px;
+}
+
+.destaque {
+    color: rgb(63, 158, 26);
+    font-weight: bold;
+}
+
+.destaque2:hover {
+    color: black;
+    font-weight: bold;
+    text-decoration: line-through;    
+}
+
+#historia {
+    background-color: rgb(248, 213, 213);
+}
+
+#membros {
+   background-color: rgb(248, 213, 213);
+}
+
+#musicas {
+    background-color: rgb(248, 213, 213);
+}
+
+#discografia {
+    background-color: rgb(248, 213, 213);
+}
